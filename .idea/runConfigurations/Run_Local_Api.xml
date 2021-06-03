@@ -23,6 +23,7 @@
       <env name="MOCK_LOCAL_CI_RESPONSE" value="true" />
       <env name="ALLOW_CORS" value="YES" />
       <env name="WHARF_INSTANCE" value="local" />
+      <env name="BIND_ADDRESS" value="0.0.0.0:30000" />
     </envs>
     <kind value="PACKAGE" />
     <package value="github.com/iver-wharf/wharf-api" />

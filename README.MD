@@ -6,9 +6,9 @@ project in Goland or Webstorm.
 
 Any other day at work run `git pull --recurse-submodules` to pull updates on all modules.
 
-See the [Iver-Wharf Project](https://github.com/iver-wharf).
+See [Iver-Wharf Project](https://github.com/iver-wharf) on GitHub.com
 
-See [Iver-Wharf Docuemntation](https://iver-wharf.github.io/#/development/getting-started)
+See [Iver-Wharf Docuemntation](https://iver-wharf.github.io/#/development/getting-started) on iver-wharf.github.io
 
 See [Iver-Wharf Notes](https://iver-wharf.github.io/wharf-notes/impulse) on neuron/impulse
 
@@ -18,12 +18,16 @@ Where possible these will be tied in to binaries in the wharf-web or wharf-api r
 
 #### - *.md
 
-For these we use remark.
+Remark (Semi integrated into Jetbrains IDEs)
 
-#### - .js & .ts
+#### - .js & .ts & .html
 
-Eslint
+Eslint (Plugin)
 
 #### - .go
 
 Revive
+
+#### - .scss & .css
+
+Stylelint (Plugin)
