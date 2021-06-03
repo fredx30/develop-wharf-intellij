@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/wharf-web/e2e" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/api-postgresql-data" />
+      <excludeFolder url="file://$MODULE_DIR$/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/pkg" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-api/.github" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-api/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-api/docs" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-api-client-go/.github" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-api-client-go/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-core/.github" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-core/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-docker-compose/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-provider-github/.github" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-provider-github/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-provider-github/docs" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-web/.github" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-web/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-web/.vscode" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-web/deploy" />
+      <excludeFolder url="file://$MODULE_DIR$/wharf-web/docs" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

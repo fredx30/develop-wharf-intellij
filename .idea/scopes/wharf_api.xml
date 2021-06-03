@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="wharf-api" pattern="file[Wharf]:wharf-api//*" />
+</component>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebResourcesPaths">
+    <contentEntries>
+      <entry url="file://$PROJECT_DIR$">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/wharf-api" />
+            <path value="file://$PROJECT_DIR$/wharf-api-client-go" />
+            <path value="file://$PROJECT_DIR$/wharf-core" />
+            <path value="file://$PROJECT_DIR$/wharf-docker-compose" />
+            <path value="file://$PROJECT_DIR$/wharf-provider-azuredevops" />
+            <path value="file://$PROJECT_DIR$/wharf-provider-github" />
+            <path value="file://$PROJECT_DIR$/wharf-provider-gitlab" />
+            <path value="file://$PROJECT_DIR$/wharf-web" />
+            <path value="file://$PROJECT_DIR$/wharf-web/projects/api-client" />
+            <path value="file://$PROJECT_DIR$/wharf-web/projects/import-azuredevops-client" />
+            <path value="file://$PROJECT_DIR$/wharf-web/projects/import-github-client" />
+            <path value="file://$PROJECT_DIR$/wharf-web/projects/import-gitlab-client" />
+            <path value="file://$PROJECT_DIR$/wharf-cmd" />
+            <path value="file://$PROJECT_DIR$/messagebus-go" />
+            <path value="file://$PROJECT_DIR$/wharf-helm" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+    </contentEntries>
+  </component>
+</project>

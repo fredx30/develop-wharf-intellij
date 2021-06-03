@@ -1,0 +1,44 @@
+[submodule "wharf-helm"]
+	path = wharf-helm
+	url = git@github.com:iver-wharf/wharf-helm.git
+	branch = master
+[submodule "wharf-api"]
+	path = wharf-api
+	url = git@github.com:iver-wharf/wharf-api.git
+	branch = master
+[submodule "wharf-web"]
+	path = wharf-web
+	url = git@github.com:iver-wharf/wharf-web.git
+	branch = master
+[submodule "wharf-provider-github"]
+	path = wharf-provider-github
+	url = git@github.com:iver-wharf/wharf-provider-github.git
+	branch = master
+[submodule "wharf-provider-gitlab"]
+	path = wharf-provider-gitlab
+	url = git@github.com:iver-wharf/wharf-provider-gitlab.git
+	branch = master
+[submodule "wharf-provider-azuredevops"]
+	path = wharf-provider-azuredevops
+	url = git@github.com:iver-wharf/wharf-provider-azuredevops.git
+	branch = master
+[submodule "wharf-api-client-go"]
+	path = wharf-api-client-go
+	url = git@github.com:iver-wharf/wharf-api-client-go.git
+	branch = master
+[submodule "rfcs"]
+	path = rfcs
+	url = git@github.com:iver-wharf/rfcs.git
+	branch = master
+[submodule "wharf-core"]
+	path = wharf-core
+	url = git@github.com:iver-wharf/wharf-core.git
+	branch = master
+[submodule "iver-wharf.github.io"]
+	path = iver-wharf.github.io
+	url = git@github.com:iver-wharf/iver-wharf.github.io.git
+	branch = master
+[submodule "wharf-docker-compose"]
+	path = wharf-docker-compose
+	url = git@github.com:iver-wharf/wharf-docker-compose.git
+	branch = master

@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="interface-provider-github" pattern="file[Wharf]:wharf-web/projects/import-github-client//*" />
+</component>
