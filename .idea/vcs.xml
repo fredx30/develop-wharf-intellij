@@ -3,11 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/iver-wharf.github.io" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/messagebus-go" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/rfcs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wharf-api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wharf-api-client-go" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/wharf-cmd" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wharf-core" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wharf-docker-compose" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wharf-helm" vcs="Git" />
