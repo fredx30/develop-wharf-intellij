@@ -1,0 +1,33 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run-Local Api" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="Wharf" />
+    <working_directory value="$PROJECT_DIR$" />
+    <go_parameters value="-i" />
+    <envs>
+      <env name="DBHOST" value="localhost" />
+      <env name="DBUSER" value="postgres" />
+      <env name="DBPASS" value="OL2AEn6lgj6ekajgKJIOanefgegnksngpoetPIEQjhankf7412" />
+      <env name="DBPORT" value="5432" />
+      <env name="DBNAME" value="wharf" />
+      <env name="DBLOG" value="true" />
+      <env name="RABBITMQUSER" value="guest" />
+      <env name="RABBITMQPASS" value="guest" />
+      <env name="RABBITMQHOST" value="rabbitmq" />
+      <env name="RABBITMQPORT" value="5672" />
+      <env name="RABBITMQVHOST" value="" />
+      <env name="RABBITMQNAME" value="wharf_queue" />
+      <env name="RABBITMQDISABLESSL" value="TRUE" />
+      <env name="RABBITMQCONNATTEMPTS" value="10" />
+      <env name="CI_URL" value="http://jenkins.local/generic-webhook-trigger/invoke" />
+      <env name="CI_TOKEN" value="cc8996eeed0963b2363e991298ccd796" />
+      <env name="MOCK_LOCAL_CI_RESPONSE" value="true" />
+      <env name="ALLOW_CORS" value="YES" />
+      <env name="WHARF_INSTANCE" value="local" />
+    </envs>
+    <kind value="PACKAGE" />
+    <package value="github.com/iver-wharf/wharf-api" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>

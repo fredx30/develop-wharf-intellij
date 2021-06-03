@@ -9,8 +9,6 @@
             <option value="provider-azuredevops" />
             <option value="provider-gitlab" />
             <option value="db" />
-            <option value="api" />
-            <option value="provider-github" />
           </list>
         </option>
         <option name="sourceFilePath" value="docker-compose.yml" />

@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run-Local Github Provider" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="Wharf" />
+    <working_directory value="$PROJECT_DIR$/wharf-provider-github" />
+    <go_parameters value="-i" />
+    <envs>
+      <env name="WHARF_API_URL" value="http://localhost:5000" />
+      <env name="ALLOW_CORS" value="YES" />
+    </envs>
+    <kind value="PACKAGE" />
+    <package value="github.com/iver-wharf/wharf-provider-github" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>
