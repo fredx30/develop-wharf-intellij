@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Run-Local Api" type="GoApplicationRunConfiguration" factoryName="Go Application">
     <module name="Wharf" />
-    <working_directory value="$PROJECT_DIR$" />
+    <working_directory value="$PROJECT_DIR$/wharf-api" />
     <go_parameters value="-i" />
     <envs>
       <env name="DBHOST" value="localhost" />

@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Frontend Npm Install" type="js.build_tools.npm">
+  <configuration default="false" name="Web npm install" type="js.build_tools.npm">
     <package-json value="$PROJECT_DIR$/wharf-web/package.json" />
     <command value="install" />
     <node-interpreter value="project" />

@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Run-Local Gitlab" type="GoApplicationRunConfiguration" factoryName="Go Application">
+  <configuration default="false" name="Run-Local Gitlab Provider" type="GoApplicationRunConfiguration" factoryName="Go Application">
     <module name="Wharf" />
     <working_directory value="$PROJECT_DIR$/wharf-provider-gitlab" />
     <go_parameters value="-i" />
