@@ -9,7 +9,6 @@
     <mapping directory="$PROJECT_DIR$/wharf-core" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wharf-docker-compose" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wharf-helm" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/wharf-notes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wharf-provider-azuredevops" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wharf-provider-github" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wharf-provider-gitlab" vcs="Git" />
