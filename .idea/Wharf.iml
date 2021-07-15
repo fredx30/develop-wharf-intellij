@@ -13,7 +13,6 @@
       <excludeFolder url="file://$MODULE_DIR$/pkg" />
       <excludeFolder url="file://$MODULE_DIR$/wharf-api/.github" />
       <excludeFolder url="file://$MODULE_DIR$/wharf-api/.idea" />
-      <excludeFolder url="file://$MODULE_DIR$/wharf-api/docs" />
       <excludeFolder url="file://$MODULE_DIR$/wharf-api-client-go/.github" />
       <excludeFolder url="file://$MODULE_DIR$/wharf-api-client-go/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/wharf-core/.github" />
@@ -21,7 +20,6 @@
       <excludeFolder url="file://$MODULE_DIR$/wharf-docker-compose/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/wharf-provider-github/.github" />
       <excludeFolder url="file://$MODULE_DIR$/wharf-provider-github/.idea" />
-      <excludeFolder url="file://$MODULE_DIR$/wharf-provider-github/docs" />
       <excludeFolder url="file://$MODULE_DIR$/wharf-web/.github" />
       <excludeFolder url="file://$MODULE_DIR$/wharf-web/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/wharf-web/.vscode" />
