@@ -1,7 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Start All" type="CompoundRunConfigurationType">
-    <toRun name="Compose Up" type="docker-deploy" />
-    <toRun name="Frontend Ng Serve" type="js.build_tools.npm" />
-    <method v="2" />
-  </configuration>
-</component>

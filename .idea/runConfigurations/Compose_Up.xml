@@ -9,12 +9,13 @@
             <option value="provider-azuredevops" />
             <option value="provider-gitlab" />
             <option value="db" />
+            <option value="api" />
+            <option value="provider-github" />
           </list>
         </option>
         <option name="sourceFilePath" value="docker-compose.yml" />
-        <option name="upExitCodeFromService" value="" />
+        <option name="upDetach" value="false" />
         <option name="upRemoveOrphans" value="true" />
-        <option name="upTimeout" value="" />
       </settings>
     </deployment>
     <method v="2" />
