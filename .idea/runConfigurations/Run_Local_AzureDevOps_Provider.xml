@@ -3,11 +3,6 @@
     <module name="Wharf" />
     <working_directory value="$PROJECT_DIR$/wharf-provider-azuredevops" />
     <go_parameters value="-i" />
-    <envs>
-      <env name="WHARF_API_URL" value="http://localhost:5000" />
-      <env name="ALLOW_CORS" value="YES" />
-      <env name="BIND_ADDRESS" value="0.0.0.0:30003" />
-    </envs>
     <kind value="PACKAGE" />
     <package value="github.com/iver-wharf/wharf-provider-azuredevops" />
     <directory value="$PROJECT_DIR$" />

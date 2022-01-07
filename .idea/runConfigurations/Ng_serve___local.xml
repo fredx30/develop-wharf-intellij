@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Web ng serve" type="js.build_tools.npm">
+  <configuration default="false" name="Ng serve - local" type="js.build_tools.npm">
     <package-json value="$PROJECT_DIR$/wharf-web/package.json" />
     <command value="run" />
     <scripts>

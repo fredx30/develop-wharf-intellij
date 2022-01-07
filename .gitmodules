@@ -42,3 +42,6 @@
 	path = wharf-docker-compose
 	url = git@github.com:iver-wharf/wharf-docker-compose.git
 	branch = master
+[submodule "wharf-notes"]
+	path = wharf-notes
+	url = git@github.com:iver-wharf/wharf-notes.git
