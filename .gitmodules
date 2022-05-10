@@ -45,3 +45,6 @@
 [submodule "wharf-notes"]
 	path = wharf-notes
 	url = git@github.com:iver-wharf/wharf-notes.git
+[submodule "wharf-demo"]
+	path = wharf-demo
+	url = git@github.com:iver-wharf/wharf-demo.git
